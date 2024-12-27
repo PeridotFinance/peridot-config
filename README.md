@@ -1,7 +1,6 @@
+# Peridot Config
 
-# Compound Config
-
-This repository contains all configuration for the Compound Protocol on Ethereum. Projects wishing to interact with Compound contracts will be able to find contract addresses, ABIs and interfaces for the core Compound contracts in this repo.
+This repository contains all configuration for the Peridot Protocol. Projects wishing to interact with Peridot contracts will be able to find contract addresses, ABIs and interfaces for the core Lend & Borrow contracts in this repo.
 
 ## Getting Started
 
@@ -14,4 +13,4 @@ This repo doesn't currently have additional configuration, but we encourage more
 ## Contributions
 
 For all changes that affect the core Protocol or are directly related to the core Protocol (e.g. underlying tokens, interest rate models, etc), please add the relevant configuration into the networks files.
-
+# peridot-config
