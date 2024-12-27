@@ -1,0 +1,38 @@
+{
+  "Contracts": {
+    "CompoundLens": "0xe8F09917d56Cc5B634f4DE091A2c82189dc41b54",
+    "Unitroller": "0x06827a2dB9047219b3989E926e811808233C95AC",
+    "Comptroller": "0x58Ca60610Bf8962d01fc275452F5fA9179940CC9",
+    "Maximillion": "0x699A3c45249C7D3b742B025BB57a1aAee3e34EF8",
+    "PriceOracle": "0x39547B8d360f7Ac675c9660bD1dD83Ee2a8da43a",
+    "PriceOracleProxy": "0x39547B8d360f7Ac675c9660bD1dD83Ee2a8da43a",
+    "cETH": "0x54C1B040f00Fe2ee261DFed72C67eDE6fBF9b18E",
+    "COMP": "0xA9582D885D81f54B19d5241D5bbF0dB552fACE6C"
+  },
+  "Blocks": {
+    "CompoundLens": 1237636,
+    "Unitroller": 1189740,
+    "Comptroller": 1189757,
+    "Maximillion": 1237797,
+    "PriceOracle": 1248035,
+    "cETH": 1189648,
+    "COMP": 1189648
+  },
+  "Tokens": {
+    "COMP": {
+      "description": "Standard",
+      "name": "Compound Governance Token",
+      "symbol": "COMP",
+      "decimals": 18,
+      "address": "0xA9582D885D81f54B19d5241D5bbF0dB552fACE6C"
+    },
+    "MOCK": {
+      "description": "Standard",
+      "name": "Mocktoken",
+      "symbol": "MOCK",
+      "decimals": 18,
+      "address": "0x2899a03ffDab5C90BADc5920b4f53B0884EB13cC"
+    }
+  },
+  "InterestRateModel": {}
+}
