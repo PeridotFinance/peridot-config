@@ -14,3 +14,4 @@ This repo doesn't currently have additional configuration, but we encourage more
 
 For all changes that affect the core Protocol or are directly related to the core Protocol (e.g. underlying tokens, interest rate models, etc), please add the relevant configuration into the networks files.
 # peridot-config
+# peridot-config
